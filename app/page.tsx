@@ -45,7 +45,6 @@ export default function Home() {
       title: "League of Legends Rank OBS Overlay",
       description: "A custom streaming tool that integrates with the Riot Games API to render dynamic, real-time statistics.",
       stack: ["JavaScript", "Riot Games API", "React"],
-      repoLink: null,
     }
   ];
 
