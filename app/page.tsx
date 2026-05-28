@@ -88,7 +88,7 @@ export default function Home() {
               </div>
 
               <div className="flex gap-4 text-sm font-medium">
-                <a href={project.repoLink} target="_blank" rel="noopener noreferrer" className="hover:underline text-gray-500">Source Code ↗</a>
+                <a href={project.repoLink} target="_blank" rel="noopener noreferrer" className="hover:underline text-gray-500">Github ↗</a>
               </div>
             </div>
           ))}
